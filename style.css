@@ -279,3 +279,14 @@ nav ul li a:hover{
     font-weight:bold;
     margin:40px 0 20px;
 }
+/* CONTACT PAGE */
+
+.detail-card a{
+    color:#38bdf8;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.detail-card a:hover{
+    text-decoration:underline;
+}
