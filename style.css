@@ -225,3 +225,45 @@ nav ul li a:hover{
     }
 
 }
+/* PROJECT DETAILS PAGE */
+
+.project-details{
+    max-width:1000px;
+    margin:auto;
+    padding:50px 20px;
+}
+
+.project-details h1{
+    text-align:center;
+    color:#38bdf8;
+    margin-bottom:20px;
+}
+
+.status{
+    text-align:center;
+    color:#22c55e;
+    font-weight:bold;
+    margin-bottom:30px;
+}
+
+.detail-card{
+    background:#1e293b;
+    padding:25px;
+    margin-bottom:25px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.3);
+}
+
+.detail-card h2{
+    color:#38bdf8;
+    margin-bottom:15px;
+}
+
+.detail-card p,
+.detail-card li{
+    line-height:1.8;
+}
+
+.detail-card ul{
+    padding-left:20px;
+}
