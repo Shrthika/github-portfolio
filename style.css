@@ -327,3 +327,12 @@ nav ul li a:hover{
 .gallery img:hover{
     transform:scale(1.03);
 }
+.gallery-item{
+    text-align:center;
+}
+
+.gallery-item p{
+    margin-top:10px;
+    font-size:16px;
+    color:#ddd;
+}
