@@ -298,3 +298,10 @@ nav ul li a:hover{
     border-radius:15px;
     box-shadow:0 5px 15px rgba(0,0,0,0.3);
 }
+.button-group{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    margin-top:30px;
+    flex-wrap:wrap;
+}
