@@ -336,3 +336,16 @@ nav ul li a:hover{
     font-size:16px;
     color:#ddd;
 }
+.profile-img {
+    width: 320px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #38bdf8;
+    box-shadow: 0 10px 30px rgba(56, 189, 248, 0.4);
+    transition: 0.3s ease;
+}
+
+.profile-img:hover {
+    transform: scale(1.05);
+}
